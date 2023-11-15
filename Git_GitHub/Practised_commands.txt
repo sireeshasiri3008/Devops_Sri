@@ -1,0 +1,20 @@
+git init
+git add .    git add *
+git commit -m "Gt-1122 pratised update"
+git push
+
+git reset
+git clean -f
+git stash
+git stash pop
+git cherrypick
+
+git forking
+
+git rebase
+git fetch
+git pull
+git merge
+
+git remote -v
+
